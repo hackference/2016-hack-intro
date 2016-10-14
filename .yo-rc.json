@@ -1,0 +1,18 @@
+{
+  "generator-cds-talk": {
+    "presentationTitle": "Welcome to Hackference",
+    "presentationSubTitle": "",
+    "packageVersion": "0.0.1",
+    "revealLayout": "cloudant",
+    "revealTheme": "ibm-cds",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "hackference",
+    "githubRepository": "2016-conference-welcome",
+    "authorName": "Mike Elsmore",
+    "authorJobTitle": "",
+    "authorEmail": "",
+    "authorTwitter": "hackferencebrum",
+    "authorGithub": "hackference"
+  }
+}
