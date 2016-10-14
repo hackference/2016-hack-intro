@@ -1,0 +1,56 @@
+/*
+  General
+ */
+@font-face {
+  font-family: "LubalinDemiIBM";
+  src: url("../static/ibm.woff") format("woff"); }
+
+body {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  color: #222222; }
+
+h1 {
+  font-family: "LubalinDemiIBM" !important; }
+
+a {
+  color: #00649D; }
+  a :visited {
+    color: #53049C; }
+
+/*
+  Bootstrap Specific
+ */
+.navbar {
+  background: #222222; }
+  .navbar .navbar-text {
+    color: #999999;
+    font-family: "LubalinDemiIBM"; }
+
+.btn-primary {
+  background: #A72185; }
+
+  /*
+    Reveal.js Specific
+   */
+  .reveal {
+    background-color: #FFFFFF; }
+  .reveal i.fa{
+      font-family: 'FontAwesome';
+      font-style: normal;
+  }
+  .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+    text-transform: none;
+    line-height: 0.93em; }
+  .reveal h1 a, .reveal h2 a, .reveal h3 a, .reveal h4 a {
+    color: #222222 !important; }
+  .reveal pre {
+    font-size: 1em; }
+
+  .reveal table {
+    margin: 0 auto;
+  }
+
+  .reveal table th,
+  .reveal table td {
+    text-align: center;
+  }
