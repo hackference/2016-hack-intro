@@ -1,3 +1,3 @@
-##  Don't be a jerk
+##  Be excellent to each other
 
-> Tim Fogarty (@tfogo) ages ago…
+> Bill & Ted
