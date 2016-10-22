@@ -147,7 +147,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:hackference/2016-intro.git'
+                    remote: 'git@github.com:hackference/2016-hack-intro.git'
                     branch: 'gh-pages'
 
 
